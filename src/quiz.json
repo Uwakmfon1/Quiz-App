@@ -1,0 +1,16 @@
+{
+    "questions":[
+        {
+            "id":1,
+            "question":"What is the capital of Akwa Ibom",
+            "answers":{
+                "a":"Eket",
+                "b":"Esit Eket",
+                "c":"Uyo",
+                "d":"Ibeno"
+            },
+            "correct":"Uyo"
+        },
+        {}
+    ]
+}
