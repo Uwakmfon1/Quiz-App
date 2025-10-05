@@ -1,4 +1,17 @@
-#root {
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+ input[type="radio"] {
+    display: block;
+    margin-bottom: 5px; /* Optional: Add some spacing */
+  }
+  
+
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +52,5 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
+

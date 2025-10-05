@@ -1,16 +1,114 @@
 {
-    "questions":[
+    "questions": [
         {
-            "id":1,
-            "question":"What is the capital of Akwa Ibom",
-            "answers":{
-                "a":"Eket",
-                "b":"Esit Eket",
-                "c":"Uyo",
-                "d":"Ibeno"
+            "id": 1,
+            "question": "What is the capital of Nigeria?",
+            "answers": {
+                "a": "Abuja",
+                "b": "Lagos",
+                "c": "Port Harcourt",
+                "d": "Kano"
             },
-            "correct":"Uyo"
+            "correct": "Abuja"
         },
-        {}
+        {
+            "id": 2,
+            "question": "Who is known as the father of computers?",
+            "answers": {
+                "a": "Alan Turing",
+                "b": "Charles Babbage",
+                "c": "Bill Gates",
+                "d": "Steve Jobs"
+            },
+            "correct": "Charles Babbage"
+        },
+        {
+            "id": 3,
+            "question": "Which planet is known as the Red Planet?",
+            "answers": {
+                "a": "Earth",
+                "b": "Venus",
+                "c": "Mars",
+                "d": "Jupiter"
+            },
+            "correct": "Mars"
+        },
+        {
+            "id": 4,
+            "question": "What is the largest ocean on Earth?",
+            "answers": {
+                "a": "Atlantic Ocean",
+                "b": "Pacific Ocean",
+                "c": "Indian Ocean",
+                "d": "Arctic Ocean"
+            },
+            "correct": "Pacific Ocean"
+        },
+        {
+            "id": 5,
+            "question": "Which language is the most spoken worldwide?",
+            "answers": {
+                "a": "English",
+                "b": "Mandarin Chinese",
+                "c": "Spanish",
+                "d": "Hindi"
+            },
+            "correct": "Mandarin Chinese"
+        },
+        {
+            "id": 6,
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "answers": {
+                "a": "William Shakespeare",
+                "b": "Chinua Achebe",
+                "c": "Jane Austen",
+                "d": "George Orwell"
+            },
+            "correct": "William Shakespeare"
+        },
+        {
+            "id": 7,
+            "question": "What is the chemical symbol for water?",
+            "answers": {
+                "a": "O2",
+                "b": "CO2",
+                "c": "H2O",
+                "d": "HO2"
+            },
+            "correct": "H2O"
+        },
+        {
+            "id": 8,
+            "question": "How many continents are there in the world?",
+            "answers": {
+                "a": "5",
+                "b": "6",
+                "c": "7",
+                "d": "8"
+            },
+            "correct": "7"
+        },
+        {
+            "id": 9,
+            "question": "Which country is called the 'Giant of Africa'?",
+            "answers": {
+                "a": "South Africa",
+                "b": "Nigeria",
+                "c": "Kenya",
+                "d": "Egypt"
+            },
+            "correct": "Nigeria"
+        },
+        {
+            "id": 10,
+            "question": "What is the hardest natural substance on Earth?",
+            "answers": {
+                "a": "Gold",
+                "b": "Iron",
+                "c": "Diamond",
+                "d": "Platinum"
+            },
+            "correct": "Diamond"
+        }
     ]
 }
